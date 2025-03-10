@@ -8,3 +8,4 @@
 <!-- # 📊 GitHub Stats:
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=foeiieof&theme=swift&border_radius=15&mode=weekly)](https://git.io/streak-stats) -->
 
+[![wakatime](https://wakatime.com/badge/user/018b2ca0-0d3b-4ba2-8af3-4c114114f289.svg)](https://wakatime.com/@018b2ca0-0d3b-4ba2-8af3-4c114114f289)
