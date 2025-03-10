@@ -7,8 +7,18 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=foeiieof&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=foeiieof&theme=dark&hide_border=false)
-[![foeiieof's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=foeiieof&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/foeiieof/github-readme-stats#gh-dark-mode-only)
-[![foeiieof's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=foeiieof&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/foeiieof/github-readme-stats#gh-light-mode-only)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=foeiieof&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=foeiieof&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=foeiieof&show_icons=true" />
+</picture>
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=foeiieof&theme=dark&no-frame=false&no-bg=true&margin-w=4) -->
 
