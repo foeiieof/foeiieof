@@ -8,9 +8,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=foeiieof&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=foeiieof&theme=dark&hide_border=false)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foeiieof)](https://github.com/foeiieof/github-readme-stats)
+[![Anurag's GitHub stats](https://foeiieof.vercel.app/api?username=foeiieof)](https://github.com/foeiieof/github-readme-stats)
 <br />
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@foeiieof)](https://github.com/foeiieof/github-readme-stats)
+[![Harlok's WakaTime stats](https://foeiieof.vercel.app/api/wakatime?username=@foeiieof)](https://github.com/foeiieof/github-readme-stats)
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=foeiieof&theme=dark&no-frame=false&no-bg=true&margin-w=4) -->
 
