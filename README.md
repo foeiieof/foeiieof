@@ -1,15 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
 ⚡ Fun fact
 
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white) 
+![C#](https://img.shields.io/badge/-.NET%208.0-blueviolet?logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 <br>
@@ -77,10 +73,7 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) 
 <br>
 
-<!--https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white -->
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonwebservices&logoColor=white) 
 <br>
-<!-- # 📊 GitHub Stats:
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=foeiieof&theme=swift&border_radius=15&mode=weekly)](https://git.io/streak-stats) -->
 
 [![wakatime](https://wakatime.com/badge/user/018b2ca0-0d3b-4ba2-8af3-4c114114f289.svg)](https://wakatime.com/@018b2ca0-0d3b-4ba2-8af3-4c114114f289)
