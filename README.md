@@ -1,5 +1,5 @@
-# 💫 About Me:
-⚡ Fun fact
+#  ⚡About Me:
+ Fun fact
 Full-stack developer with experience in Next.js, React, Laravel, and Express.js for building user-friendly applications. Strong backend expertise in C#, PostgreSQL, MongoDB, Kafka, and payment integrations (Omise, 2C2P, Stripe). Skilled in AWS, Docker, and DevOps practices, with a focus on scalable, reliable systems.
 
 
